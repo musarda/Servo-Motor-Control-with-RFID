@@ -20,6 +20,7 @@ Here are the steps to follow:
 * RFID tags
 
 ## Wiring
+> <img src="https://github.com/musarda/Servo-Motor-Control-with-RFID/blob/main/img/wiring_diagram.png" title="RFID" alt="RFID" width="512">
 * Connect the VCC and GND pins of the RFID reader to the 3.3V and GND pins of the Arduino board, respectively.
 * Connect the SDA, SCK, MOSI, MISO pins of the RFID reader to the digital pins 10, 13, 11, and 12 of the Arduino board, respectively.
 * Connect the VCC and GND pins of the servo motor to the 5V and GND pins of the Arduino board, respectively.
