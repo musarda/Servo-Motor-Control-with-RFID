@@ -3,6 +3,8 @@ In this project, an RFID reader is used to read RFID tags and the servo motor is
 
 ## What is RFID Card?
 
+> <img src="https://github.com/musarda/Servo-Motor-Control-with-RFID/blob/main/img/image.png" title="RFID" alt="RFID" width="256">
+
 RFID card is a kind of smart card created using Radio Frequency Identification (RFID) technology and can be used for many different purposes. These cards can be recognized and communicated by RFID readers at close range, thanks to a microchip and antenna on them.
 
 RFID cards are often used for purposes such as authentication, access control, tracking and inventory management. For example, employees in a workplace may need to have RFID cards to enter a particular section. These cards can open the door if people who have access to the department hold their cards to the RFID reader.
